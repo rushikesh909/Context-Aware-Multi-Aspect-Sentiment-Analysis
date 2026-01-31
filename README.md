@@ -39,11 +39,8 @@ In addition, this project extracts the **reason/cause** behind the predicted sen
 
 - Python
 - Transformers (HuggingFace)
-- PyTorch
-- spaCy (`en_core_web_sm`)
 - NLTK (VADER)
 - Pandas, NumPy
-- Plotly, Matplotlib
 - KaggleHub
 - Gradio
 
